@@ -29,5 +29,16 @@ Interactive HR Analytics Dashboard built using Power BI.
 - Distance From Home Analysis
 - Attrition Heatmap
 
+## Dashboard Screenshots
+
+### Executive Summary
+![Executive Summary](Executive_Summary.png)
+
+### Employee Deep Dive
+![Employee Deep Dive](Employee_Deep_Dive.png)
+
+### Workforce Health & Risk
+![Workforce Health](Workforce_Health.png)
+
 ## Author
 Karthika V
